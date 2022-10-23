@@ -5,13 +5,13 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
 1. Ingresar a Postman mediante el siguiente link:
 
-  https://web.postman.co/workspace/My-Workspace~2abe3400-c264-490a-8031-2648b6eabc11/request/24023029-44a8f1fe-b816-4ab3-8ca5-6fb1f7aca287
+    https://web.postman.co/workspace/My-Workspace~2abe3400-c264-490a-8031-2648b6eabc11/request/24023029-44a8f1fe-b816-4ab3-8ca5-6fb1f7aca287
 
-  Con los siguientes datos de acceso:
+    Con los siguientes datos de acceso:
 
-  username: meanGirls
+    username: meanGirls
 
-  password:mean_girls
+    password:mean_girls
 
 2. 
 Se puede acceder a la API montada en AWS mediante:
