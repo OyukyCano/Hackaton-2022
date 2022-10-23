@@ -41,12 +41,14 @@ Nota: Se puede consultar el ID del cliente o las variables del modelo.
    3 – Cliente con discapacidad auditiva
 
    567 – Cliente con discapacidad motriz
+   
+   Adulto mayor - [75,265960,227799,1.19,1.2,8506.39,335914.01,6609.6]
 
     Es importante mencionar que se está proponiendo incluir CISCO como canal de atención a clientes para aquellos identificados con discapacidad auditiva, ya que se les podría dar soporte mediante una video-llamada con un ejecutivo que manejara lenguaje de señas.
 
 #### Archivos adicionales
 
-Video de negocio presentando la iniciativa -
+Video de negocio presentando la iniciativa - https://www.canva.com/design/DAFPyd5pi-w/VAltwXQPMvt89UQHruo_6A/watch?utm_content=DAFPyd5pi-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Diccionario de datos para el desarrollo del modelo - TAD_Diccionario.xlsx
 
