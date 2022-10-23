@@ -42,7 +42,7 @@ Nota: Se puede consultar el ID del cliente o las variables del modelo.
 
    567 – Cliente con discapacidad motriz
    
-   Adulto mayor - [75,265960,227799,1.19,1.2,8506.39,335914.01,6609.6]
+   Adulto mayor - [75,265960,227799,0.39,0.20,8506.39,335914.01,6609.6]
 
     Es importante mencionar que se está proponiendo incluir CISCO como canal de atención a clientes para aquellos identificados con discapacidad auditiva, ya que se les podría dar soporte mediante una video-llamada con un ejecutivo que manejara lenguaje de señas.
 
