@@ -13,10 +13,7 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
     password: mean_girls
 
-2. 
-Se puede acceder a la API montada en AWS mediante:
-
-(link)
+2. Se puede acceder a la API montada en AWS al ... [instrucciones]
 
 Para probar la API se pueden ingresar los siguientes números de clientes que se clasificaron con cada perfil y de acuerdo a ello se recomiendan diversas formas de autenticación.
 
