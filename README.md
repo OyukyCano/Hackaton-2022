@@ -52,7 +52,9 @@ Diccionario de datos para el desarrollo del modelo - TAD_Diccionario.xlsx
 
 Tabla Analitica de Datos (TAD) simulada - TAD.ipynb
 
-Código usado para desarrollar el modelo -
+Código usado para desarrollar el recomendador - FnRecomendador.py
+
+Código de Lambda AWS -
 
 Diagrama de la implementación - Diagrama.pdf
 
