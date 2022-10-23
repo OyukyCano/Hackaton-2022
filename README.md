@@ -13,7 +13,9 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
     password: mean_girls
 
-2. Se puede acceder a la API montada en AWS al ... [instrucciones]
+2. Una vez en Postman seleccion la pestaña: Body --> Raw 
+   *al final del renglón (letras azules) asegurarse que esté seleccionado JSON
+                                               
 
     Para probar la API se pueden ingresar los siguientes números de clientes que se clasificaron con cada perfil y de acuerdo a ello se recomiendan diversas formas de autenticación.
 
@@ -37,7 +39,9 @@ Diccionario de datos para el desarrollo del modelo - TAD_Diccionario.xlsx
 
 Tabla Analitica de Datos (TAD) simulada - TAD.ipynb
 
-Código usado para desarrollar el modelo
+Código usado para desarrollar el modelo -
 
-Video de negocio presentando la iniciativa
+Video de negocio presentando la iniciativa -
+
+Diagrama de la implementación -
 
