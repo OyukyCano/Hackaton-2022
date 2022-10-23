@@ -35,7 +35,7 @@ Link de video
 
 Diccionario de datos para el desarrollo del modelo - TAD_Diccionario.xlsx
 
-Tabla Analitica de Datos (TAD) simulada -
+Tabla Analitica de Datos (TAD) simulada - TAD.ipynb
 
 Código usado para desarrollar el modelo
 
