@@ -17,6 +17,7 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
    *al final del renglón (letras azules) asegurarse que esté seleccionado JSON
                                                
 3. Para realizar la consulta utilizaremos un diccionario para dar valor a las variables:
+
 {
   "id": "567",
   "edad": "",
@@ -45,7 +46,7 @@ Nota: Se puede consultar el ID del cliente o las variables del modelo.
 
 #### Archivos adicionales
 
-Link de video
+Video de negocio presentando la iniciativa -
 
 Diccionario de datos para el desarrollo del modelo - TAD_Diccionario.xlsx
 
@@ -53,7 +54,5 @@ Tabla Analitica de Datos (TAD) simulada - TAD.ipynb
 
 Código usado para desarrollar el modelo -
 
-Video de negocio presentando la iniciativa -
-
-Diagrama de la implementación -
+Diagrama de la implementación - Diagrama.pdf
 
