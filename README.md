@@ -11,7 +11,7 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
     username: meanGirls
 
-    password:mean_girls
+    password: mean_girls
 
 2. 
 Se puede acceder a la API montada en AWS mediante:
