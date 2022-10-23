@@ -54,7 +54,7 @@ Tabla Analitica de Datos (TAD) simulada - TAD.ipynb
 
 Código usado para desarrollar el recomendador - FnRecomendador.py
 
-Código de Lambda AWS -
+Código de Lambda AWS - lambda_handler.py
 
 Diagrama de la implementación - Diagrama.pdf
 
