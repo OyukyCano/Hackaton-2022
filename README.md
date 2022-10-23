@@ -15,19 +15,19 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
 2. Se puede acceder a la API montada en AWS al ... [instrucciones]
 
-Para probar la API se pueden ingresar los siguientes números de clientes que se clasificaron con cada perfil y de acuerdo a ello se recomiendan diversas formas de autenticación.
+    Para probar la API se pueden ingresar los siguientes números de clientes que se clasificaron con cada perfil y de acuerdo a ello se recomiendan diversas formas de autenticación.
 
-XXXXX – Cliente sin discapacidad
+    XXXXX – Cliente sin discapacidad
 
-XXXXX – Cliente adulto mayor
+    XXXXX – Cliente adulto mayor
 
-XXXXX – Cliente con discapacidad visual
+    XXXXX – Cliente con discapacidad visual
 
-XXXXX – Cliente con discapacidad auditiva
+    XXXXX – Cliente con discapacidad auditiva
 
-XXXXX – Cliente con discapacidad motriz
+    XXXXX – Cliente con discapacidad motriz
 
-Es importante mencionar que se está proponiendo incluir CISCO como canal de atención a clientes para aquellos identificados con discapacidad auditiva, ya que se les podría dar soporte mediante una video-llamada con un ejecutivo que manejara lenguaje de señas.
+    Es importante mencionar que se está proponiendo incluir CISCO como canal de atención a clientes para aquellos identificados con discapacidad auditiva, ya que se les podría dar soporte mediante una video-llamada con un ejecutivo que manejara lenguaje de señas.
 
 #### Archivos adicionales
 
