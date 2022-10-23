@@ -16,18 +16,30 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 2. Una vez en Postman seleccion la pestaña: Body --> Raw 
    *al final del renglón (letras azules) asegurarse que esté seleccionado JSON
                                                
+3. Para realizar la consulta utilizaremos un diccionario para dar valor a las variables:
+{
+  "id": "567",
+  "edad": "",
+  "tot_transacciones_anio": "",
+  "tot_transacciones_medicas_anio": "",
+  "gastomed_vs_gasto": "",
+  "gastomed_vs_ingreso": "",
+  "num_transacciones_dvisual": "",
+  "num_transacciones_dauditiva": "",
+  "num_transacciones_dmotriz": ""
+}
 
-    Para probar la API se pueden ingresar los siguientes números de clientes que se clasificaron con cada perfil y de acuerdo a ello se recomiendan diversas formas de autenticación.
+Nota: Se puede consultar el ID del cliente o las variables del modelo.
 
-    XXXXX – Cliente sin discapacidad
+4. Para probar la API se pueden ingresar los siguientes números de clientes que se clasificaron con cada perfil y de acuerdo a ello se recomiendan diversas formas de autenticación.
 
-    XXXXX – Cliente adulto mayor
+   124 – Cliente sin discapacidad
 
-    XXXXX – Cliente con discapacidad visual
+   298 – Cliente con discapacidad visual
 
-    XXXXX – Cliente con discapacidad auditiva
+   3 – Cliente con discapacidad auditiva
 
-    XXXXX – Cliente con discapacidad motriz
+   567 – Cliente con discapacidad motriz
 
     Es importante mencionar que se está proponiendo incluir CISCO como canal de atención a clientes para aquellos identificados con discapacidad auditiva, ya que se les podría dar soporte mediante una video-llamada con un ejecutivo que manejara lenguaje de señas.
 
