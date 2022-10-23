@@ -3,7 +3,7 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
 #### Intrucciones para probar la API
 
-Se puede acceder a la API mediante:
+Se puede acceder a la API montada en AWS mediante:
 
 (link)
 
@@ -20,4 +20,14 @@ XXXXX – Cliente con discapacidad auditiva
 XXXXX – Cliente con discapacidad motriz
 
 Es importante mencionar que se está proponiendo incluir CISCO como canal de atención a clientes para aquellos identificados con discapacidad auditiva, ya que se les podría dar soporte mediante una video-llamada con un ejecutivo que manejara lenguaje de señas.
+
+#### Archivos adicionales
+
+Link de video
+
+Diccionario de datos para el desarrollo del modelo
+
+Código usado para desarrollar el modelo
+
+Video de negocio presentando la iniciativa
 
