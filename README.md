@@ -33,7 +33,9 @@ Este repositorio contiene los entregables del hackaton del equipo "mean(girls)" 
 
 Link de video
 
-Diccionario de datos para el desarrollo del modelo
+Diccionario de datos para el desarrollo del modelo - TAD_Diccionario.xlsx
+
+Tabla Analitica de Datos (TAD) simulada -
 
 Código usado para desarrollar el modelo
 
